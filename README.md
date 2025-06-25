@@ -67,8 +67,11 @@ My aim is to close the gap between academic breakthroughs and real-world deploym
 
 <details>
   <summary><strong>China Collegiate Computer Design Competition (2023)</strong></summary>
+  
 **🧑‍💻 Role:** Team Leader  
+
 **🏷 Project Title:** *Smart Factory – Industrial Vision System for Production Environments*  
+
 **🔍 Key Innovations:**
 
 - **AI-driven Safety Monitoring**  
