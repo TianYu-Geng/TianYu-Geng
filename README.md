@@ -5,7 +5,7 @@
 🎓 **B.Eng. in Artificial Intelligence**, Nanjing Tech University (Graduated)  
 🏅 Ranked **1st out of 62**, awarded graduate recommendation qualification to top graduate schools, including **UESTC**, **SDU**, and **ShanghaiTech**  
 🎓 Currently a **Master’s student at the Faculty of Robotics Science and Engineering, Northeastern University (NEU, China)**  
-🔧 Pursuing a **Master of Engineering (M.Eng.) in Robotics Science and Engineering**.
+🔧 Pursuing a **Master of Engineering (M.Eng.) in Robotics Science and Engineering**.  
 🧭 Researching **planning and navigation for medical surgical robots**, supervised by **Associate Professor [Jianning Chi](http://faculty.neu.edu.cn/chijianning/zh_CN/index/54976/list/index.htm)**  
 
 ---
@@ -60,7 +60,7 @@ My aim is to close the gap between academic breakthroughs and real-world deploym
 </details>
 
 <details>
-  <summary><strong>Patent &。Software Copyright :</strong></summary>
+  <summary><strong>Patent & Software Copyright :</strong></summary>
  Empty！
 </details>
 
@@ -120,8 +120,10 @@ Led the overall system requirement analysis and software architecture design to 
 </details>
 
 **Video:**
+
 Empty
 
 🧭 **Motto**
+
 “The confined are doomed to fade, but those who transcend will thrive. Only through relentless effort can we forge our true value.”
 
