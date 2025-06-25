@@ -64,7 +64,6 @@ My aim is to close the gap between academic breakthroughs and real-world deploym
 | 2024.02           | MCM/ICM Mathematical Contest in Modeling （美国大学生数学建模大赛）              | 🥈 International Second Prize      |
 | 2023.05           | China Robotics Skills Competition （中国机器人技能大赛）                     | 🥉 National Third Prize            |
 
----
 
 <details>
   <summary><strong>China Collegiate Computer Design Competition (2023)</strong></summary>
@@ -83,7 +82,6 @@ My aim is to close the gap between academic breakthroughs and real-world deploym
 
 </details>
 
----
 
 <details>
   <summary><strong> National Innovation Training Program (2022.10 – 2024.05)</strong></summary>
