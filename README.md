@@ -110,17 +110,16 @@ Led the overall system requirement analysis and software architecture design to 
 ---
 
 <details>
-  <summary><strong>🎓 Extracurricular Activities</strong></summary>
+  <summary><strong>Extracurricular Activities</strong></summary>
 
 <br>
 
 <details>
-  <summary><strong>🧪 Vistalab — Member (Sep. 2022 – Sep. 2023), Student Leader (Sep. 2023 – Jun. 2025)</strong></summary>
+  <summary><strong>Vistalab — Member (Sep. 2022 – Sep. 2023), Student Leader (Sep. 2023 – Jun. 2025)</strong></summary>
 
 <br>
 
-Core student leader and researcher at **Vistalab**, a student-managed robotics research lab at **Nanjing Tech University**, under the guidance of  
-**[Prof. Lu Zhao](https://cise.njtech.edu.cn/info/1015/7805.htm)** and **[Prof. Jun Lü](https://cise.njtech.edu.cn/info/1015/6165.htm)**.
+Core student leader and researcher at **Vistalab**, a student-managed robotics research lab at **Nanjing Tech University**, under the guidance of **[Associate Professor Lu Zhao](https://cise.njtech.edu.cn/info/1015/7805.htm)** and **[Associate Professor Jun Lü](https://cise.njtech.edu.cn/info/1015/6165.htm)**.
 
 - 🧭 **Lab Coordination & Management**  
   Organized weekly research seminars, technical workshops, and academic activities.  
