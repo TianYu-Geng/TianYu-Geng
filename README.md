@@ -45,3 +45,33 @@ My aim is to close the gap between academic breakthroughs and real-world deploym
 **🙂 Always open to collaboration and meaningful conversations!**  
 
 ---
+
+<details>
+  <summary><strong>Representative works:</strong></summary>
+
+</details>
+
+<details>
+  <summary><strong>Paper:</strong></summary>          
+
+<!--
+示例：x. [[Paper]()] [[Code]()]
+-->
+</details>
+
+<details>
+  <summary><strong>Patent &。Software Copyright :</strong></summary>
+ Empty！
+</details>
+
+<details>
+  <summary><strong>Competition Awards:</strong></summary>
+
+</details>
+
+**Video:**
+Empty
+
+🧭 **Motto**
+“The confined are doomed to fade, but those who transcend will thrive. Only through relentless effort can we forge our true value.”
+
