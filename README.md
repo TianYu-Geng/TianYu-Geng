@@ -67,7 +67,7 @@ My aim is to close the gap between academic breakthroughs and real-world deploym
 ---
 
 <details>
-  <summary><strong>📌 Project Highlight – China Collegiate Computer Design Competition (2023)</strong></summary>
+  <summary><strong>China Collegiate Computer Design Competition (2023)</strong></summary>
 **🧑‍💻 Role:** Team Leader  
 **🏷 Project Title:** *Smart Factory – Industrial Vision System for Production Environments*  
 **🔍 Key Innovations:**
@@ -86,10 +86,13 @@ My aim is to close the gap between academic breakthroughs and real-world deploym
 ---
 
 <details>
-  <summary><strong>📌 Project Highlight – National Innovation Training Program (2022.10 – 2024.05)</strong></summary>
-🧑‍💻 **Role:** Principal Investigator (Team Leader)  
-🏷 **Project Title:** *Design and Implementation of a Deep Learning Test Suite Quality Evaluation System Based on Mutation Testing*  
-🔍 **Key Innovations:**
+  <summary><strong> National Innovation Training Program (2022.10 – 2024.05)</strong></summary>
+  
+🧑‍💻 **Role:** Principal Investigator (Team Leader),under the guidance of **[Associate Professor Xingya Wang](https://cise.njtech.edu.cn/info/1015/6159.htm)**.  
+
+🏷 **Project Title:** *Design and Implementation of a Deep Learning Test Suite Quality Evaluation System Based on Mutation Testing   
+
+🔍 **Key Innovations:**  
 
 **Mutation Operator Optimization**  
 Reproduced and improved several mutation operators in deep learning systems to enhance their fault detection effectiveness and adaptability to diverse neural network architectures.
@@ -126,7 +129,8 @@ Core student leader and researcher at **Vistalab**, a student-managed robotics r
   Managed lab documentation, version control workflows, and cross-team collaboration.  
   Mentored junior students on research topic selection, project planning, and engineering toolchains.
 
-- 🔬 **Research Projects & Technical Contributions**  
+- 🔬 **Research Projects & Technical Contributions**
+  
   - **Traffic Object Detection & Tracking**  
     - [3D-NET](https://github.com/TianYu-Geng/3D-NET): Reproduced and improved deep learning pipelines for traffic-aware 3D object detection.  
     - [ByteTrackV2](https://github.com/TianYu-Geng/ByteTrackV2): Re-implemented multi-object tracking model with enhanced performance.  
