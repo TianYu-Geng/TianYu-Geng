@@ -54,7 +54,7 @@ My aim is to close the gap between academic breakthroughs and real-world deploym
 ---
 
 <details>
-  <summary><strong>🏆 Competition Awards</strong></summary>
+  <summary><strong>Competition Awards</strong></summary>
 
 | Date              | Competition                                           | Award                             |
 |-------------------|--------------------------------------------------------|-----------------------------------|
@@ -110,7 +110,40 @@ Led the overall system requirement analysis and software architecture design to 
 ---
 
 <details>
-  <summary><strong>Extracurricular Activities:</strong></summary>
+  <summary><strong>🎓 Extracurricular Activities</strong></summary>
+
+<br>
+
+<details>
+  <summary><strong>🧪 Vistalab — Member (Sep. 2022 – Sep. 2023), Student Leader (Sep. 2023 – Jun. 2025)</strong></summary>
+
+<br>
+
+Core student leader and researcher at **Vistalab**, a student-managed robotics research lab at **Nanjing Tech University**, under the guidance of  
+**[Prof. Lu Zhao](https://cise.njtech.edu.cn/info/1015/7805.htm)** and **[Prof. Jun Lü](https://cise.njtech.edu.cn/info/1015/6165.htm)**.
+
+- 🧭 **Lab Coordination & Management**  
+  Organized weekly research seminars, technical workshops, and academic activities.  
+  Managed lab documentation, version control workflows, and cross-team collaboration.  
+  Mentored junior students on research topic selection, project planning, and engineering toolchains.
+
+- 🔬 **Research Projects & Technical Contributions**  
+  - **Traffic Object Detection & Tracking**  
+    - [3D-NET](https://github.com/TianYu-Geng/3D-NET): Reproduced and improved deep learning pipelines for traffic-aware 3D object detection.  
+    - [ByteTrackV2](https://github.com/TianYu-Geng/ByteTrackV2): Re-implemented multi-object tracking model with enhanced performance.  
+    - Contributed to voxel-based perception systems and model modularization (VoxelNeXt).  
+
+  - **ROS-Based Robotics Learning**  
+    - [Yuxiang_ROS_complete](https://github.com/TianYu-Geng/Yuxiang_ROS_complete): Built an educational ROS framework for sim-to-real control and robotics learning.
+
+  - **UAV Aerial Patrol System**  
+    Developed drone path planning logic, implemented image acquisition pipeline, and built an anomaly detection module using lightweight CNNs for real-time safety monitoring.
+
+- 🏆 **Mentorship & Competition Guidance**  
+  Collaborated with faculty to co-supervise national competition teams.  
+  Provided technical and strategic guidance on multiple award-winning projects at the national level.
+
+</details>
 
 </details>
 
