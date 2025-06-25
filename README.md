@@ -18,14 +18,6 @@
 
 ---
 
-### 🎯 Personal Interests
-
-- 🚴 Cycling  
-- 🏸 Playing badminton  
-- 🎸 Playing guitar
-
----
-
 ### 🚀 My Goals
 
 I am committed to advancing the field of **medical micro/nanorobotics**,  
@@ -37,19 +29,12 @@ My aim is to close the gap between academic breakthroughs and real-world deploym
 
 ---
 
-### 🤝 Let’s Connect
-
-- 📧 Email: qinghuan_tiana@163.com  
-- 📝 CSDN Blog: [https://blog.csdn.net/qq_62687015?type=blog](https://blog.csdn.net/qq_62687015?type=blog)
-
-**🙂 Always open to collaboration and meaningful conversations!**  
-
----
-
 <details>
   <summary><strong>Representative works:</strong></summary>
 
 </details>
+
+---
 
 <details>
   <summary><strong>Paper:</strong></summary>          
@@ -59,10 +44,14 @@ My aim is to close the gap between academic breakthroughs and real-world deploym
 -->
 </details>
 
+---
+
 <details>
   <summary><strong>Patent & Software Copyright :</strong></summary>
  Empty！
 </details>
+
+---
 
 <details>
   <summary><strong>🏆 Competition Awards</strong></summary>
@@ -77,8 +66,8 @@ My aim is to close the gap between academic breakthroughs and real-world deploym
 
 ---
 
-### 📌 Project Highlight – China Collegiate Computer Design Competition (2023)
-
+<details>
+  <summary><strong>📌 Project Highlight – China Collegiate Computer Design Competition (2023)</strong></summary>
 **🧑‍💻 Role:** Team Leader  
 **🏷 Project Title:** *Smart Factory – Industrial Vision System for Production Environments*  
 **🔍 Key Innovations:**
@@ -92,10 +81,12 @@ My aim is to close the gap between academic breakthroughs and real-world deploym
 - **Fire Detection with Sensor Fusion**  
   Introduced an enhanced fire detection pipeline using incremental DBSCAN clustering, multi-sensor fusion, and visual inference — addressing critical safety challenges in industrial spaces.
 
+</details>
+
 ---
 
-### 📌 Project Highlight – National Innovation Training Program (2022.10 – 2024.05)
-
+<details>
+  <summary><strong>📌 Project Highlight – National Innovation Training Program (2022.10 – 2024.05)</strong></summary>
 🧑‍💻 **Role:** Principal Investigator (Team Leader)  
 🏷 **Project Title:** *Design and Implementation of a Deep Learning Test Suite Quality Evaluation System Based on Mutation Testing*  
 🔍 **Key Innovations:**
@@ -114,16 +105,42 @@ Led the overall system requirement analysis and software architecture design to 
 
 </details>
 
+</details>
+
+---
+
 <details>
   <summary><strong>Extracurricular Activities:</strong></summary>
 
 </details>
 
+---
+
 **Video:**
 
 Empty
 
+---
+
+### 🎯 Personal Interests
+
+- 🚴 Cycling  
+- 🏸 Playing badminton  
+- 🎸 Playing guitar
+
+---
+
 🧭 **Motto**
 
 “The confined are doomed to fade, but those who transcend will thrive. Only through relentless effort can we forge our true value.”
+
+---
+
+### 🤝 Let’s Connect
+
+- 📧 Email: qinghuan_tiana@163.com  
+- 📝 CSDN Blog: [https://blog.csdn.net/qq_62687015?type=blog](https://blog.csdn.net/qq_62687015?type=blog)
+
+**🙂 Always open to collaboration and meaningful conversations!**  
+
 
