@@ -25,7 +25,7 @@
 
   <br>
 
-  <img src="https://raw.githubusercontent.com/YourUsername/YourRepo/main/assets/research_map.svg" alt="Research Interest Map" style="width:100%; max-width:700px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"/>
+  <img src="https://github.com/TianYu-Geng/TianYu-Geng/blob/main/research_interests.svg" alt="Research Interest Map" style="width:100%; max-width:700px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"/>
 
   <br><br>
 
