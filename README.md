@@ -1,6 +1,11 @@
 ### 👋 Hi, I’m Tianyu Geng — or just call me **Ethan Geng**
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=TianYu-Geng&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" width="400" />
+### 🌱 My Github Status 🌱
+[![MR-Addict's GitHub stats](https://github-readme-stats.vercel.app/api?username=TianYu-Geng&hide=prs,contribs&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)  
+
+  
+### 🌱 Most Used Languages 🌱
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TianYu-Geng&&layout=compact&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 🎓 **B.Eng. in Artificial Intelligence**, Nanjing Tech University (Graduated)  
 🏅 Ranked **1st out of 62**, awarded graduate recommendation qualification to top graduate schools, including **UESTC**, **SDU**, and **ShanghaiTech**  
