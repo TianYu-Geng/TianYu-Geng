@@ -1,17 +1,33 @@
 ### 👋 Hi, I’m Tianyu Geng — or just call me **Ethan Geng**
 
-### 🌱 My Github Status 🌱
-[![MR-Addict's GitHub stats](https://github-readme-stats.vercel.app/api?username=TianYu-Geng&hide=prs,contribs&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)  
+### 🎓 Education & Research Track
 
-  
-### 🌱 Most Used Languages 🌱
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TianYu-Geng&&layout=compact&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+- 📘 **B.Eng. in Artificial Intelligence**, *Nanjing Tech University* (Graduated)  
+  ‣ 🏅 **Ranked 1st / 62**, earned direct recommendation for top graduate schools  
+  ‣ 💌 Offers from: **UESTC**, **SDU**, **ShanghaiTech**, etc.
 
-🎓 **B.Eng. in Artificial Intelligence**, Nanjing Tech University (Graduated)  
-🏅 Ranked **1st out of 62**, awarded graduate recommendation qualification to top graduate schools, including **UESTC**, **SDU**, and **ShanghaiTech**  
-🎓 Currently a **Master’s student at the Faculty of Robotics Science and Engineering, Northeastern University (NEU, China)**  
-🔧 Pursuing a **Master of Engineering (M.Eng.) in Robotics Science and Engineering**.  
-🧭 Researching **planning and navigation for medical surgical robots**, supervised by **Associate Professor [Jianning Chi](http://faculty.neu.edu.cn/chijianning/zh_CN/index/54976/list/index.htm)**  
+- 🎓 **M.Eng. in Robotics**, *Northeastern University (NEU, China)*  
+  ‣ 🧠 Major: *Robotics Science and Engineering*  
+  ‣ 🔍 Focus: **Planning & Navigation for Surgical Robots**  
+  ‣ 👨‍🏫 Advisor: [Assoc. Prof. Jianning Chi](http://faculty.neu.edu.cn/chijianning/zh_CN/index/54976/list/index.htm)
+
+> 🧭 My research bridges AI planning, reinforcement learning, and surgical safety — towards smarter, more adaptive medical robotics.
+
+
+### 🌱 My Github Status & Most Used Languages
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=TianYu-Geng&hide=prs,contribs&show_icons=true&hide_title=true&hide_border=true" width="420"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TianYu-Geng&layout=compact&exclude_repo=github-readme-stats,anuraghazra.github.io&hide_border=true" width="320"/>
+    </td>
+  </tr>
+</table>
+
+
 
 
 ### 🔬 Research Interests
@@ -22,27 +38,17 @@
 - 🧬 **Trustworthy and Intelligent Navigation for Surgical Robots**: Focused on multimodal perception fusion, image registration, reinforcement learning, path planning, multi-agent coordination, and large language model integration to enable robust, adaptive, and safe navigation in dynamic surgical environments.
 -->
 
-<br>
-
-<img
-  src="https://github.com/TianYu-Geng/TianYu-Geng/blob/main/research_interests.svg"
-  alt="Research Interest Map"
-  style="width:100%; max-width:700px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"
-/>
-
-<br>
+<p align="center">
+  <img src="https://github.com/TianYu-Geng/TianYu-Geng/blob/main/research_interests.svg" width="800">
+</p>
 
 ### 🚀 My Goals
 
-I am committed to advancing the field of **medical micro/nanorobotics**,  
-with the goal of publishing high-impact papers in both **top-tier computer science conferences** and **leading medical AI journals**.
+I’m dedicated to **advancing medical micro/nanorobotics**, aiming to publish in **top CS conferences** and **leading medical AI journals**.
 
-Driven by a clear philosophy:  
-**Build research that truly matters — not just publishable, but socially valuable and practically applicable.**  
-My aim is to close the gap between academic breakthroughs and real-world deployment in healthcare.
-
-Motto：“The confined are doomed to fade, but those who transcend will thrive. Only through relentless effort can we forge our true value.”
-
+> **Build research that truly matters** — not just publishable, but **deployable**, **trustworthy**, and **socially meaningful**.
+>
+> *“The confined are doomed to fade, but those who transcend will thrive.Only through relentless effort can we forge our true value.”*
 
 <details>
   <summary><strong>Representative works:</strong></summary>
