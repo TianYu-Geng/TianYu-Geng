@@ -1,0 +1,226 @@
+<svg viewBox="0 0 1400 1200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Gradient definitions -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f172a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e293b;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="robotGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="visionGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#059669;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="surgicalGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f59e0b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#d97706;stop-opacity:1" />
+    </linearGradient>
+    
+    <!-- Glow effect -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge> 
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    
+    <!-- Shadow effect -->
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#000000" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1400" height="900" fill="url(#bgGradient)"/>
+  
+  <!-- Decorative grid background -->
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#334155" stroke-width="0.5" opacity="0.2"/>
+  </pattern>
+  <rect width="100%" height="100%" fill="url(#grid)"/>
+  
+  <!-- Title section -->
+  <rect x="100" y="40" width="1200" height="80" rx="15" fill="#1e293b" stroke="#475569" stroke-width="2" filter="url(#shadow)"/>
+  <text x="700" y="90" text-anchor="middle" fill="#f8fafc" font-family="Arial, sans-serif" font-size="36" font-weight="bold">
+    Research Interests
+  </text>
+  
+  <!-- First card - Embodied Intelligence -->
+  <g transform="translate(100, 160)">
+    <rect width="360" height="300" rx="20" fill="#1e293b" stroke="url(#robotGradient)" stroke-width="3" filter="url(#shadow)"/>
+    
+    <!-- Robot icon -->
+    <g transform="translate(30, 40)">
+      <circle cx="15" cy="15" r="12" fill="url(#robotGradient)" filter="url(#glow)"/>
+      <rect x="5" y="25" width="20" height="25" rx="4" fill="url(#robotGradient)" filter="url(#glow)"/>
+      <circle cx="10" cy="12" r="3" fill="#ffffff"/>
+      <circle cx="20" cy="12" r="3" fill="#ffffff"/>
+      <rect x="2" y="32" width="6" height="12" rx="3" fill="url(#robotGradient)"/>
+      <rect x="22" y="32" width="6" height="12" rx="3" fill="url(#robotGradient)"/>
+      <!-- Antenna -->
+      <line x1="15" y1="3" x2="15" y2="8" stroke="url(#robotGradient)" stroke-width="2"/>
+      <circle cx="15" cy="3" r="2" fill="url(#robotGradient)"/>
+    </g>
+
+    <!-- Text content -->
+    <text x="80" y="60" fill="#10b981" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Embodied Intelligence</text>
+    
+    <!-- Key components -->
+    <text x="30" y="130" fill="#94a3b8" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Key Interests:</text>
+    <g transform="translate(80, 150)">
+      <circle cx="8" cy="15" r="3" fill="#3b82f6" opacity="0.8"/>
+      <text x="20" y="20" fill="#cbd5e1" font-family="Arial, sans-serif" font-size="16">Perception Integration</text>
+      <circle cx="8" cy="50" r="3" fill="#3b82f6" opacity="0.8"/>
+      <text x="20" y="55" fill="#cbd5e1" font-family="Arial, sans-serif" font-size="16">Cognitive Control</text>
+      <circle cx="8" cy="85" r="3" fill="#3b82f6" opacity="0.8"/>
+      <text x="20" y="90" fill="#cbd5e1" font-family="Arial, sans-serif" font-size="16">Physical Interaction</text>
+    </g>
+  </g>
+  
+  <!-- Second card - Computer Vision -->
+  <g transform="translate(520, 160)">
+    <rect width="360" height="300" rx="20" fill="#1e293b" stroke="url(#visionGradient)" stroke-width="3" filter="url(#shadow)"/>
+    
+    <!-- Eye icon -->
+    <g transform="translate(30, 40)">
+      <ellipse cx="15" cy="15" rx="18" ry="12" fill="url(#visionGradient)" filter="url(#glow)"/>
+      <circle cx="15" cy="15" r="8" fill="#ffffff"/>
+      <circle cx="15" cy="15" r="4" fill="#1e293b"/>
+      <path d="M 0 10 Q 15 3 30 10" stroke="url(#visionGradient)" stroke-width="2" fill="none"/>
+      <path d="M 0 20 Q 15 27 30 20" stroke="url(#visionGradient)" stroke-width="2" fill="none"/>
+      <!-- Vision rays -->
+      <path d="M 33 10 L 38 6" stroke="url(#visionGradient)" stroke-width="2" opacity="0.7"/>
+      <path d="M 33 15 L 38 15" stroke="url(#visionGradient)" stroke-width="2" opacity="0.7"/>
+      <path d="M 33 20 L 38 24" stroke="url(#visionGradient)" stroke-width="2" opacity="0.7"/>
+    </g>
+    
+    <!-- Text content -->
+    <text x="80" y="60" fill="#10b981" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Computer Vision</text>
+
+    
+    <!-- Key components -->
+    <text x="30" y="130" fill="#94a3b8" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Key Interests:</text>
+    <g transform="translate(80, 150)">
+      <circle cx="8" cy="15" r="3" fill="#10b981" opacity="0.8"/>
+      <text x="20" y="20" fill="#cbd5e1" font-family="Arial, sans-serif" font-size="16">Multimodal Fusion</text>
+      <circle cx="8" cy="50" r="3" fill="#10b981" opacity="0.8"/>
+      <text x="20" y="55" fill="#cbd5e1" font-family="Arial, sans-serif" font-size="16">3D Perception</text>
+      <circle cx="8" cy="85" r="3" fill="#10b981" opacity="0.8"/>
+      <text x="20" y="90" fill="#cbd5e1" font-family="Arial, sans-serif" font-size="16">Object Detection &amp; Tracking</text>
+    </g>
+  </g>
+  
+  <!-- Third card - Surgical Robots -->
+  <g transform="translate(940, 160)">
+    <rect width="360" height="300" rx="20" fill="#1e293b" stroke="url(#surgicalGradient)" stroke-width="3" filter="url(#shadow)"/>
+    
+    <!-- Surgical robot icon -->
+    <g transform="translate(30, 40)">
+      <path d="M 8 8 L 22 8 L 22 20 L 19 24 L 11 24 L 8 20 Z" fill="url(#surgicalGradient)" filter="url(#glow)"/>
+      <circle cx="15" cy="12" r="3" fill="#ffffff"/>
+      <path d="M 3 18 L 8 20" stroke="url(#surgicalGradient)" stroke-width="2"/>
+      <path d="M 22 20 L 27 18" stroke="url(#surgicalGradient)" stroke-width="2"/>
+      <circle cx="3" cy="18" r="2" fill="url(#surgicalGradient)"/>
+      <circle cx="27" cy="18" r="2" fill="url(#surgicalGradient)"/>
+      <path d="M 12 24 L 18 24 L 18 28 L 12 28 Z" fill="url(#surgicalGradient)"/>
+      <!-- Additional surgical tools -->
+      <path d="M 30 12 L 35 8" stroke="url(#surgicalGradient)" stroke-width="2"/>
+      <path d="M 30 20 L 35 24" stroke="url(#surgicalGradient)" stroke-width="2"/>
+      <circle cx="35" cy="8" r="1.5" fill="url(#surgicalGradient)"/>
+      <circle cx="35" cy="24" r="1.5" fill="url(#surgicalGradient)"/>
+    </g>
+    
+    <!-- Text content -->
+    <text x="80" y="60" fill="#f59e0b" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Intelligent Navigation</text>
+    <text x="80" y="85" fill="#f59e0b" font-family="Arial, sans-serif" font-size="18" font-weight="bold">for Micro/NanoRobots</text>
+    
+    <!-- Key components -->
+    <text x="30" y="130" fill="#94a3b8" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Key Interests:</text>
+    <g transform="translate(80, 150)">
+      <circle cx="8" cy="15" r="3" fill="#f59e0b" opacity="0.8"/>
+      <text x="20" y="20" fill="#cbd5e1" font-family="Arial, sans-serif" font-size="16">Multimodal Perception Fusion</text>
+      <circle cx="8" cy="50" r="3" fill="#f59e0b" opacity="0.8"/>
+      <text x="20" y="55" fill="#cbd5e1" font-family="Arial, sans-serif" font-size="16">Reinforcement Learning</text>
+      <circle cx="8" cy="85" r="3" fill="#f59e0b" opacity="0.8"/>
+      <text x="20" y="90" fill="#cbd5e1" font-family="Arial, sans-serif" font-size="16">LLM Integration</text>
+    </g>
+  </g>
+  
+  <!-- Technical details section -->
+  <g transform="translate(100, 500)">
+    <rect width="1200" height="340" rx="20" fill="#1e293b" stroke="#475569" stroke-width="2" filter="url(#shadow)"/>
+    
+    <!-- Core Technologies -->
+    <text x="40" y="40" fill="#f8fafc" font-family="Arial, sans-serif" font-size="22" font-weight="bold">Core Technologies &amp; Methods</text>
+    
+    <g transform="translate(60, 70)">
+      <!-- First column -->
+      <circle cx="8" cy="8" r="4" fill="#3b82f6"/>
+      <text x="25" y="13" fill="#e2e8f0" font-family="Arial, sans-serif" font-size="15">Multimodal Perception Fusion</text>
+      
+      <circle cx="8" cy="40" r="4" fill="#10b981"/>
+      <text x="25" y="45" fill="#e2e8f0" font-family="Arial, sans-serif" font-size="15">Image Registration &amp; 3D Perception</text>
+      
+      <circle cx="8" cy="72" r="4" fill="#f59e0b"/>
+      <text x="25" y="77" fill="#e2e8f0" font-family="Arial, sans-serif" font-size="15">Reinforcement Learning Framework</text>
+      
+      <!-- Second column -->
+      <circle cx="350" cy="8" r="4" fill="#8b5cf6"/>
+      <text x="367" y="13" fill="#e2e8f0" font-family="Arial, sans-serif" font-size="15">Intelligent Path Planning</text>
+      
+      <circle cx="350" cy="40" r="4" fill="#ef4444"/>
+      <text x="367" y="45" fill="#e2e8f0" font-family="Arial, sans-serif" font-size="15">Multi-Agent Coordination</text>
+      
+      <circle cx="350" cy="72" r="4" fill="#06b6d4"/>
+      <text x="367" y="77" fill="#e2e8f0" font-family="Arial, sans-serif" font-size="15">Large Language Model Integration</text>
+    </g>
+    
+    <!-- Research Applications -->
+    <text x="40" y="190" fill="#f8fafc" font-family="Arial, sans-serif" font-size="22" font-weight="bold">Research Applications</text>
+    
+    <g transform="translate(60, 220)">
+      <!-- Application cards -->
+      <rect x="0" y="0" width="250" height="60" rx="12" fill="#374151" stroke="#4b5563" stroke-width="1"/>
+      <text x="15" y="22" fill="#3b82f6" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Autonomous Robotic Systems</text>
+      <text x="15" y="42" fill="#d1d5db" font-family="Arial, sans-serif" font-size="12">Complex environment understanding</text>
+      
+      <rect x="270" y="0" width="250" height="60" rx="12" fill="#374151" stroke="#4b5563" stroke-width="1"/>
+      <text x="285" y="22" fill="#10b981" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Advanced Surgical Navigation</text>
+      <text x="285" y="42" fill="#d1d5db" font-family="Arial, sans-serif" font-size="12">Dynamic surgical environments</text>
+      
+      <rect x="540" y="0" width="250" height="60" rx="12" fill="#374151" stroke="#4b5563" stroke-width="1"/>
+      <text x="555" y="22" fill="#f59e0b" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Human-Robot Collaboration</text>
+      <text x="555" y="42" fill="#d1d5db" font-family="Arial, sans-serif" font-size="12">Safe collaborative operations</text>
+      
+      <rect x="810" y="0" width="250" height="60" rx="12" fill="#374151" stroke="#4b5563" stroke-width="1"/>
+      <text x="825" y="22" fill="#8b5cf6" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Intelligent Visual Processing</text>
+      <text x="825" y="42" fill="#d1d5db" font-family="Arial, sans-serif" font-size="12">Real-time object detection</text>
+    </g>
+  </g>
+  
+  <!-- 
+  Bottom decorative line 
+  <line x1="150" y1="940" x2="1250" y2="940" stroke="#475569" stroke-width="2" opacity="0.5"/>
+  <text x="700" y="955" text-anchor="middle" fill="#64748b" font-family="Arial, sans-serif" font-size="14">
+    Advanced AI Research • Robotics • Computer Vision • Surgical Innovation
+  </text>
+  
+  <g opacity="0.4">
+    <circle cx="280" cy="300" r="3" fill="#3b82f6">
+      <animate attributeName="opacity" values="0.2;0.8;0.2" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="700" cy="320" r="3" fill="#10b981">
+      <animate attributeName="opacity" values="0.8;0.2;0.8" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1120" cy="300" r="3" fill="#f59e0b">
+      <animate attributeName="opacity" values="0.2;0.8;0.2" dur="3s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  -->
+</svg>
