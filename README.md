@@ -44,6 +44,8 @@ Driven by a clear philosophy:
 **Build research that truly matters — not just publishable, but socially valuable and practically applicable.**  
 My aim is to close the gap between academic breakthroughs and real-world deployment in healthcare.
 
+Motto：“The confined are doomed to fade, but those who transcend will thrive. Only through relentless effort can we forge our true value.”
+
 ---
 
 <details>
@@ -173,20 +175,6 @@ Core student leader and researcher at **Vistalab**, a student-managed robotics r
 **Video:**
 
 Empty
-
----
-
-### 🎯 Personal Interests
-
-- 🚴 Cycling  
-- 🏸 Playing badminton  
-- 🎸 Playing guitar
-
----
-
-🧭 **Motto**
-
-“The confined are doomed to fade, but those who transcend will thrive. Only through relentless effort can we forge our true value.”
 
 ---
 
