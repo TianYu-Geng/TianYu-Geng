@@ -17,9 +17,19 @@
 
 ### 🔬 Research Interests
 
+<!--
 - 🤖 **Embodied Intelligence**: Bridging perception, cognition, and control in complex physical environments    
 - 👁️ **Computer Vision**: Focused on multimodal image fusion, 3D perception, and object detection/tracking across visual and spatial domains     
-- 🧬 **Trustworthy and Intelligent Navigation for Surgical Robots**: Focusing on reliable and intelligent navigation in surgical robotics, integrates multimodal perception fusion and reinforcement learning frameworks to construct real-time dynamic spatial mapping models. It achieves sub-millimeter-level pose correction and tissue deformation compensation, and establishes a multi-dimensional trust evaluation system covering operational safety, path compliance, and decision interpretability. The goal is to enable high-precision, disturbance-resilient navigation for interventional surgery, ensuring safety and efficiency in human-robot collaborative procedures.  
+- 🧬 **Trustworthy and Intelligent Navigation for Surgical Robots**: Focused on multimodal perception fusion, image registration, reinforcement learning, path planning, multi-agent coordination, and large language model integration to enable robust, adaptive, and safe navigation in dynamic surgical environments.
+-->
+
+  <br>
+
+  <img src="https://raw.githubusercontent.com/YourUsername/YourRepo/main/assets/research_map.svg" alt="Research Interest Map" style="width:100%; max-width:700px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"/>
+
+  <br><br>
+
+
 
 ---
 
