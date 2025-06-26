@@ -180,4 +180,6 @@ Empty
 
 **🙂 Always open to collaboration and meaningful conversations!**  
 
+### 🌱 Visitor Count 🌱
+<img src="https://profile-counter.glitch.me/TianYu-Geng/count.svg" />
 
