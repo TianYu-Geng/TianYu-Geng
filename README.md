@@ -23,13 +23,15 @@
 - 🧬 **Trustworthy and Intelligent Navigation for Surgical Robots**: Focused on multimodal perception fusion, image registration, reinforcement learning, path planning, multi-agent coordination, and large language model integration to enable robust, adaptive, and safe navigation in dynamic surgical environments.
 -->
 
-  <br>
+<br>
 
-  <img src="https://github.com/TianYu-Geng/TianYu-Geng/blob/main/research_interests.svg" alt="Research Interest Map" style="width:100%; max-width:700px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"/>
+<img
+  src="https://github.com/TianYu-Geng/TianYu-Geng/blob/main/research_interests.svg"
+  alt="Research Interest Map"
+  style="width:100%; max-width:700px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"
+/>
 
-  <br><br>
-
-
+<br>
 
 ---
 
