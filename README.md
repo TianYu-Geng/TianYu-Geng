@@ -154,7 +154,7 @@ Core student leader and researcher at **Vistalab**, a student-managed robotics r
   - **Traffic Object Detection & Tracking**  
     - [3D-NET](https://github.com/TianYu-Geng/3D-NET): Reproduced and improved deep learning pipelines for traffic-aware 3D object detection.  
     - [ByteTrackV2](https://github.com/TianYu-Geng/ByteTrackV2): Re-implemented multi-object tracking model with enhanced performance.  
-    - Contributed to voxel-based perception systems and model modularization (VoxelNeXt).  
+    - [VoxelNeXt](https://github.com/TianYu-Geng/VoxelNeXt)Contributed to voxel-based perception systems and model modularization.  
 
   - **ROS-Based Robotics Learning**  
     - [Yuxiang_ROS_complete](https://github.com/TianYu-Geng/Yuxiang_ROS_complete): Built an educational ROS framework for sim-to-real control and robotics learning.
