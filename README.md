@@ -13,7 +13,6 @@
 🔧 Pursuing a **Master of Engineering (M.Eng.) in Robotics Science and Engineering**.  
 🧭 Researching **planning and navigation for medical surgical robots**, supervised by **Associate Professor [Jianning Chi](http://faculty.neu.edu.cn/chijianning/zh_CN/index/54976/list/index.htm)**  
 
----
 
 ### 🔬 Research Interests
 
@@ -33,8 +32,6 @@
 
 <br>
 
----
-
 ### 🚀 My Goals
 
 I am committed to advancing the field of **medical micro/nanorobotics**,  
@@ -46,14 +43,13 @@ My aim is to close the gap between academic breakthroughs and real-world deploym
 
 Motto：“The confined are doomed to fade, but those who transcend will thrive. Only through relentless effort can we forge our true value.”
 
----
 
 <details>
   <summary><strong>Representative works:</strong></summary>
 
 </details>
 
----
+
 
 <details>
   <summary><strong>Paper:</strong></summary>          
@@ -63,14 +59,14 @@ Motto：“The confined are doomed to fade, but those who transcend will thrive.
 -->
 </details>
 
----
+
 
 <details>
   <summary><strong>Patent & Software Copyright :</strong></summary>
  Empty！
 </details>
 
----
+
 
 <details>
   <summary><strong>Competition Awards</strong></summary>
@@ -130,8 +126,6 @@ Led the overall system requirement analysis and software architecture design to 
 
 </details>
 
----
-
 <details>
   <summary><strong>Extracurricular Activities</strong></summary>
 
@@ -170,18 +164,11 @@ Core student leader and researcher at **Vistalab**, a student-managed robotics r
 
 </details>
 
----
-
-**Video:**
-
-Empty
-
----
-
 ### 🤝 Let’s Connect
 
 - 📧 Email: qinghuan_tiana@163.com  
 - 📝 CSDN Blog: [https://blog.csdn.net/qq_62687015?type=blog](https://blog.csdn.net/qq_62687015?type=blog)
+- 🎥 Bilibili：
 
 **🙂 Always open to collaboration and meaningful conversations!**  
 
