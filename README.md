@@ -1,8 +1,6 @@
 
 ### 👋 Hi, I’m Tianyu Geng — or just call me **Ethan Geng**
 
-**For more details, please click: https://tianyu-geng.github.io/**
-
 ### 🎓 Education & Research Track
 
 - 📘 **B.Eng. in Artificial Intelligence**, *Nanjing Tech University* (Graduated)  
@@ -177,7 +175,7 @@ Core student leader and researcher at **Vistalab**, a student-managed robotics r
 
 - 📧 Email: qinghuan_tiana@163.com  
 - 📝 CSDN Blog: [https://blog.csdn.net/qq_62687015?type=blog](https://blog.csdn.net/qq_62687015?type=blog)
-- 🎥 Bilibili：
+- 🎥 Website：https://tianyu-geng.github.io/
 
 **🙂 Always open to collaboration and meaningful conversations!**  
 
