@@ -1,5 +1,7 @@
 ### 👋 Hi, I’m Tianyu Geng — or just call me **Ethan Geng**
 
+## For more details, please click: https://tianyu-geng.github.io/
+
 ### 🎓 Education & Research Track
 
 - 📘 **B.Eng. in Artificial Intelligence**, *Nanjing Tech University* (Graduated)  
