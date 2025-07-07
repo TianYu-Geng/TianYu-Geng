@@ -1,7 +1,7 @@
 
 ### 👋 Hi, I’m Tianyu Geng — or just call me **Ethan Geng**
 
-### 🎓 Education & Research Track
+### 🎓 Education Experience
 
 - 📘 **B.Eng. in Artificial Intelligence**, *Nanjing Tech University* (Graduated)  
   ‣ 🏅 **Ranked 1st / 62**, earned direct recommendation for top graduate schools  
