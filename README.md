@@ -59,6 +59,3 @@ I’m dedicated to **advancing medical micro/nanorobotics**, aiming to publish i
 
 **🙂 Always open to collaboration and meaningful conversations!**  
 
-### 🌱 Visitor Count 🌱
-<img src="https://profile-counter.glitch.me/TianYu-Geng/count.svg" />
-
