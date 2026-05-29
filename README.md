@@ -1,4 +1,3 @@
-
 ### 👋 Hi, I’m Tianyu Geng — or just call me **Ethan Geng**
 
 ### 🎓 Education Experience
@@ -9,53 +8,41 @@
 
 - 🎓 **M.Eng. in Robotics**, *Northeastern University (NEU, China)*  
   ‣ 🧠 Major: *Robotics Science and Engineering*  
-  ‣ 🔍 Focus: **Planning & Navigation for Surgical Robots**  
+  ‣ 🔍 Focus: **Humanoid Robots, Navigation Algorithms, and Embodied Intelligence**  
   ‣ 👨‍🏫 Advisor: [Assoc. Prof. Jianning Chi](http://faculty.neu.edu.cn/chijianning/zh_CN/index/54976/list/index.htm)
 
-> 🧭 My research bridges AI planning, reinforcement learning, and surgical safety — towards smarter, more adaptive medical robotics.
-
-
-### 🌱 My Github Status & Most Used Languages
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=TianYu-Geng&hide=prs,contribs&show_icons=true&hide_title=true&hide_border=true" width="420"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TianYu-Geng&layout=compact&exclude_repo=github-readme-stats,anuraghazra.github.io&hide_border=true" width="320"/>
-    </td>
-  </tr>
-</table>
-
-
+> 🧭 My research focuses on humanoid robots and embodied intelligence, with an emphasis on spatial perception, physical perception, navigation, and generative planning — towards adaptive robots capable of robust mobile-manipulation tasks in complex real-world environments.
 
 
 ### 🔬 Research Interests
 
-<!--
-- 🤖 **Embodied Intelligence**: Bridging perception, cognition, and control in complex physical environments    
-- 👁️ **Computer Vision**: Focused on multimodal image fusion, 3D perception, and object detection/tracking across visual and spatial domains     
-- 🧬 **Trustworthy and Intelligent Navigation for Surgical Robots**: Focused on multimodal perception fusion, image registration, reinforcement learning, path planning, multi-agent coordination, and large language model integration to enable robust, adaptive, and safe navigation in dynamic surgical environments.
--->
+- 🤖 **Humanoid Robots & Embodied Intelligence**: Building intelligent robotic systems that integrate perception, reasoning, planning, and control in complex physical environments.
+- 🧭 **Navigation Algorithms**: Developing robust navigation methods for humanoid robots, with a focus on spatial understanding, scene awareness, and safe decision-making.
+- 👁️ **Spatial Perception**: Exploring 3D perception, scene representation, multimodal perception fusion, and environment understanding for embodied agents.
+- 🧱 **Physical Perception**: Enabling robots to understand physical properties, affordances, contacts, constraints, and interaction dynamics in real-world environments.
+- 🧠 **Generative Planning**: Investigating generative models, large models, and learning-based planning methods for long-horizon robotic decision-making.
+- 🦾 **Mobile Manipulation**: Gradually extending navigation-centered research toward manipulation and mobile-manipulation tasks, enabling robots to move, interact, and complete complex embodied tasks.
 
+<!--
 <p align="center">
   <img src="https://github.com/TianYu-Geng/TianYu-Geng/blob/main/research_interests.svg" width="800">
 </p>
+-->
+
 
 ### 🚀 My Goals
 
-I’m dedicated to **advancing medical micro/nanorobotics**, aiming to publish in **top CS conferences** and **leading medical AI journals**.
+I’m dedicated to **advancing humanoid robots and embodied intelligence**, aiming to publish in **top robotics, AI, and computer science conferences**, as well as leading journals in intelligent robotics.
 
 > **Build research that truly matters** — not just publishable, but **deployable**, **trustworthy**, and **socially meaningful**.
 >
-> *“The confined are doomed to fade, but those who transcend will thrive.Only through relentless effort can we forge our true value.”*
+> *“The confined are doomed to fade, but those who transcend will thrive. Only through relentless effort can we forge our true value.”*
+
 
 ### 🤝 Let’s Connect
 
 - 📧 Email: qinghuan_tiana@163.com  
 - 📝 CSDN Blog: [https://blog.csdn.net/qq_62687015?type=blog](https://blog.csdn.net/qq_62687015?type=blog)
-- 🎥 Website：https://tianyu-geng.github.io/
+- 🎥 Website: [https://tianyu-geng.github.io/](https://tianyu-geng.github.io/)
 
 **🙂 Always open to collaboration and meaningful conversations!**  
-
